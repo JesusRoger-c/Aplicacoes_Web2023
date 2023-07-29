@@ -1,0 +1,41 @@
+body {
+    font-family: monospace;
+    background-color: #145DA0;
+}
+
+h1{
+    color:  white;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    
+}
+
+ul {
+    font-family: Helvetica;
+}
+.list {
+
+    list-style: square;
+
+}
+
+#msg {
+
+    font-family: monospace;
+
+}
+
+button{
+    outline-style: none;
+    height: 40px;
+    border: none;
+    top: 20px;
+    width: 90px;
+    left: 300px;
+    border-radius: 10%;
+    color: white;
+    background-color: black;
+}
